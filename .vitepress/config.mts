@@ -51,14 +51,6 @@ export default defineConfig({
       { icon: 'discord', link: 'https://discord.gg/q5nF6mj4AV' },
     ],
 
-    lastUpdated: {
-      text: 'Updated at',
-      formatOptions: {
-        dateStyle: 'full',
-        timeStyle: 'medium'
-      }
-    },
-
     footer: {
       message: 'Made with ❤️ by Hira',
       copyright: 'Copyright © 2024'
